@@ -62,6 +62,10 @@
     }
   },
   "appearance": {
-    "default": "dark"
+    "default": "system"
+  },
+  "thumbnails": {
+    "appearance": "light",
+    "background": "/images/Screenshot2026-01-28at14.35.50.png"
   }
 }
